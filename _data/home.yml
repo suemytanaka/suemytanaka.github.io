@@ -1,0 +1,43 @@
+navbar_entries:
+  - title: About
+    url: about
+
+  - title: Blog
+    url: blog
+
+project_entries:
+
+  - title: Project 1
+    url: overview-post
+    desc: This is an example project
+    highlight: NEW
+
+  - title: Project 2
+    url: overview-post
+    desc: Projects are shown in card layout
+
+  - title: Project 3
+    url: overview-post
+    desc: Describe your project in a Tweet
+
+
+old_project_entries:
+ 
+
+footer_entries:
+
+  - title: Linkedin
+    url: https://www.linkedin.com/in/suemytanaka/
+
+  - title: Github
+    url: https://github.com/suemytanaka/
+
+  - title: Feed
+    url: feed.xml
+
+misc_entries:
+  - title: this is an example vertical list
+    url: false
+
+
+
